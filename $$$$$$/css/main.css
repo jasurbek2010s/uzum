@@ -1,0 +1,44 @@
+.header-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header-top-left {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.header-top-right {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.header-center-left {
+  display: flex;
+  align-items: center;
+}
+
+.header-center-left {
+  display: flex;
+  gap: 30px;
+}
+.header-center-left img {
+  width: 250px;
+}
+.header-center-left #img {
+  width: 400px;
+}
+
+.container {
+  max-width: 1700px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.headeer-left {
+  display: flex;
+  align-items: center;
+}/*# sourceMappingURL=main.css.map */
